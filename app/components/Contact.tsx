@@ -13,8 +13,7 @@ export function Contact() {
       <div className="mx-auto max-w-[900px]">
         <h2 className="text-2xl font-bold text-foreground">Get in Touch</h2>
         <p className="mt-3 max-w-[600px] text-base leading-relaxed text-foreground-secondary">
-          I&apos;m always open to interesting conversations about product, AI, or
-          new opportunities. Feel free to reach out.
+          I&apos;m always open to connecting with other curious humans. Feel free to reach out.
         </p>
         <div className="mt-6 flex flex-wrap gap-3">
           {socialLinks.map((link) => {

@@ -31,18 +31,18 @@ export const workItems: WorkItem[] = [
   },
   {
     org: "GitLab",
-    title: "Growth & Monetization",
-    role: "Senior Product Manager, Growth",
+    title: "Product Led Growth",
+    role: "Product Manager, Growth",
     description:
       "Led growth experimentation across the self-serve funnel, driving improvements in trial activation, conversion, and expansion revenue through data-driven product changes.",
     tags: ["Growth", "Experimentation", "PLG", "B2B SaaS"],
   },
   {
     org: "GitLab",
-    title: "AI-Powered Analytics",
-    role: "Product Manager, Analytics",
+    title: "AI Analytics",
+    role: "Staff Product Analyst",
     description:
-      "Shipped analytics features that gave engineering leaders visibility into DORA metrics, value stream performance, and AI-generated insights for software delivery.",
+      "Shipped analytics features that gave engineering leaders visibility into DORA metrics, value stream performance, and ROI for strategic decision making.",
     tags: ["Analytics", "AI/ML", "DevOps", "Data Visualization"],
   },
   {

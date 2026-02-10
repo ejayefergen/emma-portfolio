@@ -7,7 +7,7 @@ export function SelectedWork() {
       <div className="mx-auto max-w-[900px]">
         <h2 className="text-2xl font-bold text-foreground">Selected Work</h2>
         <p className="mt-2 text-foreground-secondary">
-          Products I&apos;ve built and shipped across AI, growth, and IoT.
+          Products I&apos;ve built and shipped across AI, growth, and analytics.
         </p>
         <div className="mt-8 grid gap-6 md:grid-cols-2">
           {workItems.map((item) => (

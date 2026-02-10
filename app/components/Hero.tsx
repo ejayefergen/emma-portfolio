@@ -13,7 +13,7 @@ export function Hero() {
             Product Manager — AI, Growth & Analytics
           </p>
           <p className="mt-4 max-w-[600px] text-base leading-relaxed text-foreground-secondary md:text-lg">
-            I build products that turn complex problems into simple experiences.
+            I build easy to use products that solve complex problems.
             Currently co-founding Onit, an AI household operating system.
           </p>
           <div className="mt-6">

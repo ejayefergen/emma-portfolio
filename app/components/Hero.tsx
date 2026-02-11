@@ -26,7 +26,7 @@ export function Hero() {
           width={180}
           height={180}
           priority
-          className="shrink-0 rounded-full border-2 border-border object-cover shadow-sm"
+          className="shrink-0 rounded-full object-cover"
         />
       </div>
     </section>

@@ -23,102 +23,94 @@ export const workItems: WorkItem[] = [
   {
     org: "Onit",
     title: "AI Household Operating System",
-    role: "Co-Founder & Product Lead",
+    role: "Founder & Product Lead",
     description:
-      "Building an AI-powered platform that helps households manage tasks, schedules, and coordination — turning everyday chaos into calm.",
-    tags: ["AI/ML", "0→1 Product", "Consumer", "React Native"],
+      "Designing and actively building the earliest version of an AI-native household operating system to reduce mental load and bring clarity to modern home life. Onit is grounded in a simple belief: our smartest technology should give people their time back. I’m leading product strategy, interaction design, and early development while exploring how intelligent systems can coordinate the invisible labor that keeps a household running.",
+    tags: ["AI-Native", "0→1", "Systems Thinking", "Consumer"],
     inProgress: true,
   },
   {
     org: "GitLab",
-    title: "Product Led Growth",
-    role: "Product Manager, Growth",
+    title: "Growth, AI, and Product Analytics",
+    role: "Senior Product Analyst → Staff Product Analyst → Product Manager",
     description:
-      "Led growth experimentation across the self-serve funnel, driving improvements in trial activation, conversion, and expansion revenue through data-driven product changes.",
-    tags: ["Growth", "Experimentation", "PLG", "B2B SaaS"],
-  },
-  {
-    org: "GitLab",
-    title: "AI Analytics",
-    role: "Staff Product Analyst",
-    description:
-      "Shipped analytics features that gave engineering leaders visibility into DORA metrics, value stream performance, and ROI for strategic decision making.",
-    tags: ["Analytics", "AI/ML", "DevOps", "Data Visualization"],
+      "Promoted multiple times while helping shape how GitLab understands user behavior, product value, and AI adoption. Built the analytics foundation for the company’s AI platform, partnering with engineering, data, and product to define meaningful usage metrics and executive reporting. Later transitioned into product management to lead growth initiatives across the self-serve journey — simplifying acquisition and upgrade paths, reducing friction, and driving measurable improvements in acquisition, activation and conversion. My work has consistently focused on using data to reduce ambiguity and help teams invest where it matters most.",
+    tags: ["Promotion Path", "AI", "Growth", "Analytics", "DevTools"],
   },
   {
     org: "JumpCloud",
-    title: "Identity & Access Management",
-    role: "Product Manager",
+    title: "Identity Platform",
+    role: "Growth Product Analytics",
     description:
-      "Drove product strategy for directory and authentication features, improving admin experience and expanding platform capabilities for IT teams.",
-    tags: ["Identity", "Security", "Enterprise", "Platform"],
+      "Supported product strategy for directory and authentication experiences by translating complex behavioral data into clear opportunities. Focused on improving administrator workflows, strengthening adoption, and helping evolve the platform into a more cohesive system for IT teams.",
+    tags: ["Identity", "Platform Thinking", "Enterprise", "Security"],
   },
   {
     org: "AeroGarden",
-    title: "IoT Connected Garden",
-    role: "Product Manager",
+    title: "Connected Consumer IoT",
+    role: "Product Development Scientist (Product Management Role)",
     description:
-      "Led the connected product experience for smart indoor gardens, bridging hardware, firmware, and app teams to deliver a seamless growing experience.",
-    tags: ["IoT", "Consumer Hardware", "Mobile App", "Agile"],
+      "Led the connected experience for smart indoor gardens — aligning hardware and software development to create a product that made growing food at home intuitive, accessible and delightful. This work sparked my long-term interest in products that quietly improve everyday life.",
+    tags: ["IoT", "Consumer", "Mobile", "Cross-Functional Leadership"],
   },
 ];
 
 export const skillCategories: SkillCategory[] = [
   {
-    name: "Product",
+    name: "Product Leadership",
     skills: [
       "Product Strategy",
-      "Roadmapping",
-      "User Research",
-      "A/B Testing",
-      "PRDs & Specs",
-      "Go-to-Market",
-      "Stakeholder Management",
+      "0→1 Development",
+      "Systems Thinking",
+      "Growth & PLG",
+      "Experimentation",
+      "Cross-Functional Leadership",
     ],
   },
   {
-    name: "Data & Analytics",
+    name: "Data Fluency",
     skills: [
       "SQL",
-      "Amplitude",
-      "Looker",
-      "Sisense",
-      "Google Analytics",
-      "Funnel Analysis",
-      "Experimentation Design",
+      "Python",
+      "Product Analytics",
+      "Behavioral Analysis",
+      "Experiment Design",
+      "Analytics Engineering",
+      "Data Science",
     ],
   },
   {
-    name: "AI & ML",
+    name: "AI Product Development",
     skills: [
-      "LLM Integration",
+      "AI-Native Product Design",
+      "LLM Applications",
       "Prompt Engineering",
-      "AI Product Design",
-      "ML Metrics",
-      "RAG Pipelines",
+      "Usage & Value Metrics",
+      "Human-in-the-Loop Systems",
     ],
   },
   {
-    name: "Tools",
+    name: "Builder Toolkit",
     skills: [
       "Figma",
-      "Jira",
       "GitLab",
-      "GitHub",
+      "dbt",
+      "Tableau",
       "Notion",
-      "Linear",
-      "Productboard",
+      "Developer Tooling",
     ],
   },
 ];
 
-export const bio = `I'm a product manager who loves building things that make people's lives easier. Over the past several years, I've worked across growth, analytics, AI, and IoT — always at the intersection of user needs and technical possibility.
+export const bio = `I’m a product leader who builds technology that makes life and work feel simpler.
 
-At GitLab, I led growth experimentation that moved real revenue numbers and shipped AI-powered analytics that helped engineering teams understand their delivery performance. Before that, I worked on identity management at JumpCloud and connected hardware at AeroGarden.
+My career has lived at the intersection of product, data, and emerging technology — from connected hardware to developer platforms to AI. I’m particularly energized by ambiguous problem spaces and products that require both analytical depth and product intuition.
 
-Now I'm building Onit, an AI household operating system, because I believe the hardest coordination problems aren't always at work — sometimes they're at home.
+At GitLab, I was promoted multiple times while helping establish the analytics foundation for the company’s AI platform and later leading growth initiatives across the self-serve journey. My focus has always been the same: help teams see where products are genuinely creating value — and where they aren’t — so they can invest with clarity.
 
-Outside of product, you'll find me hiking Colorado trails, experimenting with new recipes, or diving into the latest AI research papers.`;
+Outside of my day job, I’m building Onit, an AI-native household operating system inspired by a belief that our most powerful technology should solve real-world problems, not create more noise.
+
+I live in the mountains of Colorado, where you’ll usually find me skiing, hiking, or mountain biking with my husband Ryan and dog Bear. I care deeply about building products that give people their time back — because time is the one resource we don’t get more of.`;
 
 export const socialLinks: SocialLink[] = [
   {
@@ -128,7 +120,7 @@ export const socialLinks: SocialLink[] = [
   },
   {
     label: "LinkedIn",
-    href: "https://www.linkedin.com/in/emma-fergen/",
+    href: "https://www.linkedin.com/in/emmajfergen/",
     icon: "linkedin",
   },
   {

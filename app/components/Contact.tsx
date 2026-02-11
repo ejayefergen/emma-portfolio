@@ -1,10 +1,11 @@
 import { socialLinks } from "@/lib/data";
-import { Mail, LinkedIn, GitLab } from "./icons";
+import { Mail, LinkedIn, GitLab, GitHub } from "./icons";
 
 const iconMap = {
   mail: Mail,
   linkedin: LinkedIn,
   gitlab: GitLab,
+  github: GitHub,
 } as const;
 
 export function Contact() {

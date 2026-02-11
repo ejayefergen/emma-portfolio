@@ -16,7 +16,7 @@ export type SkillCategory = {
 export type SocialLink = {
   label: string;
   href: string;
-  icon: "mail" | "linkedin" | "gitlab";
+  icon: "mail" | "linkedin" | "gitlab" | "github";
 };
 
 export const workItems: WorkItem[] = [
@@ -127,5 +127,10 @@ export const socialLinks: SocialLink[] = [
     label: "GitLab",
     href: "https://gitlab.com/efergen",
     icon: "gitlab",
+  },
+  {
+    label: "GitHub",
+    href: "https://github.com/ejayefergen",
+    icon: "github",
   },
 ];

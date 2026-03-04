@@ -40,7 +40,7 @@ export const workItems: WorkItem[] = [
     highlights: [
       "Promoted multiple times while shaping how GitLab understands user behavior, product value, and AI adoption",
       "Built the analytics foundation for the company's AI platform, defining meaningful usage metrics and executive reporting",
-      "Transitioned into product management to lead growth across the self-serve journey — improving acquisition, activation, and conversion",
+      "Transitioned into product management to lead growth across the self-serve journey, improving acquisition, activation, and conversion",
       "Consistently used data to reduce ambiguity and help teams invest where it matters most",
     ],
     tags: ["AI", "Growth", "Analytics", "DevTools"],
@@ -121,13 +121,13 @@ export const skillCategories: SkillCategory[] = [
 
 export const bio = `I’m a product leader who builds technology that makes life and work feel simpler.
 
-My career has lived at the intersection of product, data, and emerging technology — from connected hardware to developer platforms to AI. I’m particularly energized by ambiguous problem spaces and products that require both analytical depth and product intuition.
+My career has lived at the intersection of product, data, and emerging technology, from connected hardware to developer platforms to AI. I’m particularly energized by ambiguous problem spaces and products that require both analytical depth and product intuition.
 
 Outside of my day job, I’m building Onit, an AI-native household operating system inspired by a belief that our most powerful technology should solve real-world problems, not create more noise.
 
 I live in the mountains of Colorado, where you’ll usually find me skiing, hiking, or mountain biking with my husband Ryan and dog Bear - my joys in life. 
 
-I care deeply about building products that give people their time back — because time is the one resource we don’t get more of.`;
+I care deeply about building products that give people their time back, because time is the one resource we don’t get more of.`;
 
 export const socialLinks: SocialLink[] = [
   {
